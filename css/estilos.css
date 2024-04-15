@@ -1,0 +1,29 @@
+.colorlinks{
+
+    background-color: #231e23;
+    color: #903890;
+
+    }
+
+.colortitle{
+
+    color: #e9e7ed;
+    
+}
+.colorsub{
+
+    color:#d4d0f7;
+}
+
+body{
+
+    
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bgwhite{
+
+    
+    background-color: wheat;
+}
